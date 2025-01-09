@@ -1,4 +1,4 @@
-# **Redis Clone in Node.js**
+# **Redis Implementation in Node.js**
 
 ## **Project Description**  
 This project is a simplified **Redis** functionality implemented in **Node.js**. It replicates core Redis functionalities such as key-value storage and command handling over a TCP server. The project supports basic commands like `PING`, `ECHO`, `SET`, and `GET`, closely following the Redis communication protocol (RESP).
